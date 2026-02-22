@@ -172,6 +172,7 @@ spring.application.name=lab
 To run the application:
 ```bash
 mvn spring-boot:run
+```
 
 ---
 
