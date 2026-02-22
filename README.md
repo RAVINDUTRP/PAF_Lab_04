@@ -152,7 +152,8 @@ Edit `src/main/resources/application.properties` to configure:
 server.port=8080
 
 # Application Name
-spring.application.name=lab```
+spring.application.name=lab
+```
 
 ---
 
